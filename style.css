@@ -1,0 +1,21 @@
+.show-toast {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+}
+
+.btn-yellow {
+    background-color: #ffd600;
+}
+
+.btn-yellow:hover {
+    background-color: #ffea00;
+}
+
+.btn-red {
+    background-color: #d50000;
+}
+
+.btn-red:hover {
+    background-color: #ff1744;
+}
